@@ -1,0 +1,7 @@
+name = "EvolutionaryUtils"
+uuid = "120a71a6-8471-4253-806f-4a0f0da70827"
+authors = ["Daniel Molina <dmolina@decsai.ugr.es> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
